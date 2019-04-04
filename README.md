@@ -1,6 +1,8 @@
 # GeniusNoTokenScraper: 
 
 [![Python version](https://img.shields.io/badge/python-3.x-brightgreen.svg)](https://pypi.org/project/lyricsgenius/)
+
+
 A Python program that scrapes the Genius and Spotify album page for lyrics, annotation, and URI data without the need a client access token.
 
 # Usage
