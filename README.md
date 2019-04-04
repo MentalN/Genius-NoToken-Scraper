@@ -19,4 +19,4 @@ csv_to_json("data.csv")
 
 Result: 
 Initiall the album in parsed in a CSV file: [data.csv](https://github.com/MentalN/Genius-NoToken-Scraper/blob/master/data.csv)
-and then the final results are outputed as a JSON file[data.JSON](https://github.com/MentalN/Genius-NoToken-Scraper/blob/master/data.json)
+and then the final results are outputed as a JSON file [data.JSON](https://github.com/MentalN/Genius-NoToken-Scraper/blob/master/data.json)
