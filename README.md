@@ -1,7 +1,7 @@
 # GeniusNoTokenScraper: 
 
 [![Python version](https://img.shields.io/badge/python-3.x-brightgreen.svg)](https://pypi.org/project/lyricsgenius/)
-[![License: MIT](https://img.shields.io/badge/License-GNU-yellow.svg)](https://opensource.org/licenses/GNU)
+[![License: MIT](https://img.shields.io/badge/License-GNU-blue.svg)](https://opensource.org/licenses/GNU)
 
 
 
