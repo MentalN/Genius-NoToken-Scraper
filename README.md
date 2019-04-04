@@ -5,7 +5,7 @@
 
 
 
-A Python program that scrapes the Genius and Spotify album page for lyrics, annotation, and URI data without the need a client access token.
+A Python program that scrapes the Genius and Spotify album page for lyrics, annotation, and URI data without the need for a client access token.
 
 # Usage
 You are free to fork or just copy the source to use in your project according the GNU GENERAL PUBLIC LICENSE.
